@@ -2,17 +2,6 @@
 
 namespace Classes
 {
-    public class Car
-    {
-        public Car() { }
-        public string make { get; set; }
-        public string model { get; set; }
-        public int year { get; set; }
-
-    }
-
-
-
 
     public class Program
     {
